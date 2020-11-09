@@ -3,6 +3,12 @@ Class: SIM3IL <br>
 Professor: Daniel Huppmann <br>
 Autor: Quirin Lindenmueller <br>
 
+Project Goal:
+A python program with two functions made in a former Lecture was added. 
+One function (ggt()) calculated the greatest common diviser of two variables. 
+The other function (add_frac()) adds two fractions.
+Further on, a python test for both functions was written and will be exicuted by GitHub.
+
 Copyright Quirin Lindenmueller
 
 Licensed under the Apache License, Version 2.0 (the "License");
