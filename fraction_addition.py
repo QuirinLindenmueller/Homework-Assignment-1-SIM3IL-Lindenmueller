@@ -43,3 +43,6 @@ def add_frac(Zaehler1,Nenner1,Zaehler2,Nenner2):
        new_z=int(new_z/a)
        new_n=int(new_n/a)
        print("Der Ergebnis-Bruch ist: ", new_z, "/", new_n)
+       
+       # return values as tuples
+       return (new_z, new_n)
