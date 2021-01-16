@@ -9,7 +9,7 @@ from fraction_addition import ggt
 from fraction_addition import add_frac
 
 def test_ggt():
-    assert ggt(10,5) == 5
+    assert ggt(10,5) == 4
  
 def test_add_frac():
     assert add_frac(3,4,6,8) == print("Der Ergebnis-Bruch ist: ", 3, "/", 2)
