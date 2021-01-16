@@ -12,5 +12,5 @@ def test_ggt():
     assert ggt(10,5) == 5
  
 def test_add_frac():
-    assert add_frac(3,4,6,8) == print("Der Ergebnis-Bruch ist: ", 3, "/", 2)
+    assert add_frac(3,4,6,8) == (3, 2)
 
